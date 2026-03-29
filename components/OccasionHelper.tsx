@@ -102,11 +102,11 @@ export default function OccasionHelper() {
 
   const result = who && time ? tips[who][time] : null;
 
-  const whoOptions: { value: WhoOption; label: string; icon: string }[] = [
-    { value: "adults", label: "Just adults", icon: "☕" },
-    { value: "kids", label: "Bringing kids", icon: "🛝" },
-    { value: "dog", label: "Bringing the dog", icon: "🐾" },
-    { value: "family", label: "Family with both", icon: "🌿" },
+  const whoOptions: { value: WhoOption; label: string }[] = [
+    { value: "adults", label: "Just adults" },
+    { value: "kids", label: "Bringing kids" },
+    { value: "dog", label: "Bringing the dog" },
+    { value: "family", label: "Family with both" },
   ];
 
   const timeOptions: { value: TimeOption; label: string; sub: string }[] = [
@@ -298,7 +298,6 @@ export default function OccasionHelper() {
                     setTime(null);
                   }}
                 >
-                  <span>{opt.icon}</span>
                   {opt.label}
                 </button>
               ))}
