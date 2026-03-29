@@ -138,8 +138,8 @@ export default function Home() {
             <div className="hc-feature-card hc-feature-side hc-stagger-item">
               <div className="hc-feature-img-wrap hc-feature-img-wrap-short">
                 <Image
-                  src="https://images.unsplash.com/photo-1601758174493-45d0a4d3e407?w=700&q=80"
-                  alt="Dog sitting happily at an outdoor cafe table"
+                  src="https://images.unsplash.com/photo-1770262619388-abffbc52c782?w=700&q=80"
+                  alt="Happy corgi resting on an outdoor cafe table"
                   fill
                   className="hc-feature-img"
                   sizes="(max-width: 768px) 100vw, 50vw"
