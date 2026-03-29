@@ -181,8 +181,8 @@ export default function HCHero() {
       `}</style>
 
       <Image
-        src="https://images.unsplash.com/photo-1760431194368-f3983572c505?auto=format&fit=crop&w=1800&q=80"
-        alt="Bright modern cafe interior with wooden chairs and garden view"
+        src="https://images.unsplash.com/photo-1445116572660-236099ec97a0?auto=format&fit=crop&w=1800&q=80"
+        alt="Warm cafe table with coffee and plants by garden windows"
         fill
         priority
         className="hc-hero-img"
