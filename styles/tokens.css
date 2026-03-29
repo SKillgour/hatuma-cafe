@@ -1,0 +1,17 @@
+:root {
+  --color-primary: #2e4228;
+  --color-accent: #c4713a;
+  --color-accent-hover: #a85c2e;
+  --color-bg: #faf5e8;
+  --color-surface: #f0e8d5;
+  --color-dark-surface: #2e4228;
+  --color-text: #2e4228;
+  --color-text-muted: #7a6a50;
+  --color-text-on-dark: #f5eed8;
+  --font-heading: 'Playfair Display', serif;
+  --font-body: 'Nunito', sans-serif;
+  --radius: 8px;
+  --radius-lg: 16px;
+  --transition: 0.3s ease;
+  --container: 1140px;
+}
