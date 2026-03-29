@@ -246,8 +246,8 @@ export default function Home() {
             <div className="hc-menu-card hc-stagger-item">
               <div className="hc-menu-card-img">
                 <Image
-                  src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=700&q=80"
-                  alt="Eggs Benedict with hollandaise sauce"
+                  src="https://images.unsplash.com/photo-1762631934366-efa1a9f56da3?auto=format&fit=crop&w=700&q=80"
+                  alt="Eggs benedict with potatoes and toast"
                   fill
                   style={{ objectFit: "cover" }}
                   sizes="(max-width: 640px) 100vw, 50vw"
@@ -268,8 +268,8 @@ export default function Home() {
             <div className="hc-menu-card hc-stagger-item">
               <div className="hc-menu-card-img">
                 <Image
-                  src="https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=700&q=80"
-                  alt="Flat white coffee with latte art in ceramic mug"
+                  src="https://images.unsplash.com/photo-1543792096-24270c85b26e?auto=format&fit=crop&w=700&q=80"
+                  alt="Flat white coffee in a white ceramic cup with saucer"
                   fill
                   style={{ objectFit: "cover" }}
                   sizes="(max-width: 640px) 100vw, 50vw"
@@ -290,8 +290,8 @@ export default function Home() {
             <div className="hc-menu-card hc-stagger-item">
               <div className="hc-menu-card-img">
                 <Image
-                  src="https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=700&q=80"
-                  alt="Cabinet food - pies and slices at a bakery counter"
+                  src="https://images.unsplash.com/photo-1618686397306-b1a4a556f138?auto=format&fit=crop&w=700&q=80"
+                  alt="Golden meat pie fresh from the oven"
                   fill
                   style={{ objectFit: "cover" }}
                   sizes="(max-width: 640px) 100vw, 50vw"
@@ -312,8 +312,8 @@ export default function Home() {
             <div className="hc-menu-card hc-stagger-item">
               <div className="hc-menu-card-img">
                 <Image
-                  src="https://images.unsplash.com/photo-1553979459-d2229ba7433b?w=700&q=80"
-                  alt="Toasted sandwich pressed panini with fillings"
+                  src="https://images.unsplash.com/photo-1553909489-cd47e0907980?auto=format&fit=crop&w=700&q=80"
+                  alt="Fresh cafe sandwich with salad fillings"
                   fill
                   style={{ objectFit: "cover" }}
                   sizes="(max-width: 640px) 100vw, 50vw"
